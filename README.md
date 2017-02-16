@@ -1,2 +1,2 @@
 # RandomMonth
-Program randomly generates a random month of the year.
+Program randomly generates a month of the year.
